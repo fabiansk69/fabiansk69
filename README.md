@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Fabian Alvarado</h1>
 <h3 align="center">Soy un Desarrollador | Full-stack Developer apasionado por la tecnología</h3>
 
-- 👯 Trabajo como freelance **para la empresa CamarasRec**
+- 👯 Colaboro como freelance **para la empresa CamarasRec**
 
 - 💬 Me puedes preguntar sobre **Html, ccs, javascript, mysql, java, jsf, software y hardware**
 
